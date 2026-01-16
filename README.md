@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 WHAT THE HELL IS TUBEMIND?
+## 🎯 WHAT IS TUBEMIND?
 
 TubeMind transforms YouTube channels into **AI-powered knowledge bases**. Instead of watching dozens of videos to find answers, you can **ask questions directly to an AI** that has already processed the content, with references back to the original videos.  
 
@@ -22,7 +22,7 @@ TubeMind transforms YouTube channels into **AI-powered knowledge bases**. Instea
 
 ---
 
-## 📸 Screenshots
+## 📸 OF THE APP
 
 <img width="1437" height="591" alt="photo" src="https://github.com/user-attachments/assets/e7b12542-fa86-456e-88df-dedc2ee26e7c" />
 
@@ -48,7 +48,7 @@ TubeMind transforms YouTube channels into **AI-powered knowledge bases**. Instea
 
 ---
 
-## 🔧 HOW THE HELL IT WORKS
+## 🔧 HOW IT WORKS
 
 1. **Channel Analysis:** Extract all videos from a channel.  
 2. **Transcript Processing:** Download and process transcripts for AI understanding.  
