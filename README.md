@@ -64,7 +64,7 @@ TubeMind transforms YouTube channels into **AI-powered knowledge bases**. Instea
 **AI/ML:** OpenAI GPT-4 / Claude API, vector embeddings, Pinecone/Weaviate, LangChain  
 **Infrastructure & APIs:** Vercel, Supabase, Upstash Redis, YouTube Data API, YouTube Transcript API, FFmpeg  
 
----
+
 
 ## 📦 INSTALL&SETUP
 
